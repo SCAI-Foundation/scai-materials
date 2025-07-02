@@ -24,7 +24,7 @@
 
 ## 联系方式
 - discord: [https://discord.gg/2kM8dRd5](https://discord.gg/2kM8dRd5) 
-- Email（最好换一个，sh开个邮箱服务？）: scihubdaily@gmail.com
+- Email: noreply@scai.sh
 - Telegram: [https://t.co/67N7cpQFen](https://t.co/67N7cpQFen)
 
 ## 其他
